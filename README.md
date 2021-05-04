@@ -9,6 +9,7 @@ This Hugo theme was ported from [Bootstrapious](http://bootstrapious.com/p/unive
 
 ![screenshot](https://raw.githubusercontent.com/devcows/hugo-universal-theme/master/images/screenshot.png)
 
+It is using bootstrap 3
 
 ## Table of Contents
 
